@@ -5,5 +5,5 @@
 -  第一部分[硬件原理 PartI](https://www.coursera.org/learn/build-a-computer/home/week/1)
 -  第二部分[软件逻辑 PartII](https://www.coursera.org/learn/nand2tetris2/home/welcome)
 
-# 学习笔记
+# 
 上这门课让我获益良多
