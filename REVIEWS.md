@@ -6,26 +6,27 @@
 - 数据存储设备
 
   如，ROM（read-only memory，只读）、RAM（random access memory，可乱序存储）
-  > 数据存储设备还有其他类型。
-  > 
-  > 比如和RAM相对的，有序存储direct-access data storage media。如CD，DVD，HDD，磁带。此类设备的存储地址有远近区别。
-  > 而RAM的读取可以认为是等距的，读取任何位置所需要的时间和复杂度相同。
   
   本课程里的ROM和RAM是同一种硬件，即硬件结构、原理一样。
   - ROM，用来加载程序指令
   - RAM，用来存储程序执行中所产生的数据
 
+  > 数据存储设备还有其他类型。
+  > 
+  > 比如和RAM相对的，有序存储direct-access data storage media。如CD，DVD，HDD，磁带。此类设备的存储地址有远近区别。
+  > 而RAM的读取可以认为是等距的，读取任何位置所需要的时间和复杂度相同。
+
 - 芯片
 
   由一个ALU和几个Register构成。
   
-  ALU（arithmetic and logic unit），核心单元，由若干种逻辑门搭建。
+  - ALU（arithmetic and logic unit），核心单元，由若干种逻辑门搭建。
 
-  Register，寄存器，一般由8/16/32/64个bit构成，一个bit能存一位数，0或者1。
-  >这里的“8/16/32/64”描述的就是CPU“线宽x位”，或者对应“8位、16位、32位、64位”机。
-  >
-  >Register也是RAM的组成单元。一般来说，一台电脑的芯片和RAM的位数/线宽是一样的。
-  
+  - Register，寄存器，一般由8/16/32/64个bit构成，一个bit能存一位数，0或者1。
+    > 这里的“8/16/32/64”描述的就是CPU“线宽x位”，或者对应“8位、16位、32位、64位”机。
+    >
+    > Register也是RAM的组成单元。一般来说，一台电脑的芯片和RAM的位数/线宽是一样的。
+    
 - 输入设备
   
   向RAM指定地址推送数据
