@@ -60,7 +60,7 @@
 ## 芯片的结构和工作原理
 
    本课程的芯片是一个CPU（central processing unit）。
-   由1个ALU和2个Register和1个Program Counter构成。
+   由1个ALU，2个Register和1个Program Counter构成。
 
  - ALU 数学和逻辑运算单元 arithmetic and logic unit
 
@@ -94,7 +94,7 @@
    
    - D Register
 
-     存储数字。由C类指令指挥ALU计算并输出结果到这个寄存器里。
+     存储数据。由C类指令指挥ALU计算并输出结果到这个寄存器里。
      
    - A Register
 
@@ -107,7 +107,7 @@
    - 16位增量器/步进器 Incrementer
    - 1位的reset控制信号，1位的load控制信号
 
-  PC可以被手动归零（由reset控制），没有指令时每读一行程序（一个时钟周期）会自+1，也可以由C类指令控制将A寄存器的数字输入到这里。
+  PC可以被手动归零（由reset控制），没有指令时每读一行程序（一个时钟周期）会自+1，也可以由C类指令控制将A寄存器的数据输入到PC里。
      
  - CPU，中央处理器
    
