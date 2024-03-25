@@ -8,13 +8,13 @@
   如，ROM（read-only memory，只读）、RAM（random access memory，可乱序存储）
   
   本课程里的ROM和RAM是同一种硬件，即硬件结构、原理一样。
+
   - ROM，用来加载程序指令
   - RAM，用来存储程序执行中所产生的数据
 
-  > 数据存储设备还有其他类型。
-  > 
-  > 比如和RAM相对的，有序存储direct-access data storage media。如CD，DVD，HDD，磁带。此类设备的存储地址有远近区别。
-  > 而RAM的读取可以认为是等距的，读取任何位置所需要的时间和复杂度相同。
+  数据存储设备还有其他类型。
+    
+  - 有序存储，direct-access data storage media。如CD，DVD，HDD，磁带。此类设备的存储地址有远近区别。RAM的读取可以认为是等距的，读取任何位置所需要的时间和复杂度相同。
 
 - 芯片
 
