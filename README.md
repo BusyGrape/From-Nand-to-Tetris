@@ -5,4 +5,16 @@
 -  第一部分[硬件原理 PartI](https://www.coursera.org/learn/build-a-computer/home/week/1)
 -  第二部分[软件逻辑 PartII](https://www.coursera.org/learn/nand2tetris2/home/welcome)
 
-# [学习笔记](/学习笔记.md) 
+# 学习笔记
+
+学习笔记分为两部分，一部分是根据上课和作业过程中的笔记、思路草稿整理而成。另一部分是整个课程完结后，自己对所学成果的总结。
+
+## [随堂笔记](/NOTES.md) 
+
+每周一课
+
+重点知识摘抄、
+
+## [课后总结](/REVIEWS.md)
+
+重新梳理并总结从这门课程中所获得知识
