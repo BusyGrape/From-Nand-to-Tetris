@@ -5,32 +5,33 @@
 
 1. 数据存储设备
 
-   如，ROM（read-only memory，只读）、RAM（random-access memory，可乱序存取）
+   如，ROM、RAM
    
+   - ROM（read-only memory，只读），用来加载程序指令
+   - RAM（random-access memory，可乱序存取），用来存储程序执行中所产生的数据
+
    本课程里的ROM和RAM是同一种硬件，即硬件结构、原理一样。
 
-   - ROM，用来加载程序指令
-   - RAM，用来存储程序执行中所产生的数据
-
-   数据存储设备还有其他类型。
+   <details>
+   <summary>数据存储设备还有其他类型</summary>
     
    - DADS（direct-access data storage media，有序存储）
    
      如，CD，DVD，HDD，磁带。
 
      此类设备的存储地址有远近区别。而RAM的读取可以认为是等距的，读取任何位置所需要的时间和复杂度相同。
-
-2. 芯片
+   </details>
+   
+3. 芯片
 
    由一个ALU、几个Register和一个Program Counter构成一个核心单元。
    本课程的芯片是一个包含了一个核心单元的CPU，而更先进的芯片可能包含了多个核心单元。
   
    - ALU（arithmetic and logic unit），数学和逻辑运算单元，由若干种逻辑门搭建。
 
-   - Register，寄存器，一般由8/16/32/64个bit构成，一个bit能存一位数，0或者1。
-     > 这里的“8/16/32/64”描述的就是CPU“线宽x位”，或者对应“8位、16位、32位、64位”机。
-     >
-     > Register也是RAM的组成单元。一般来说，一台电脑的芯片和RAM的位数/线宽是一样的。
+   - Register，寄存器，一般由8/16/32/64个bit构成。一个bit能存一位数，0或者1。
+
+     这里的“8/16/32/64”描述的是CPU“线宽”，对应“8位、16位、32位、64位”机。
      
    - Program Counter，指令地址寄存器/程序计数器，由寄存器，步进器，和两个控制信号组成。
     
