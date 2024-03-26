@@ -42,25 +42,16 @@
 
 ### 数字逻辑电路图
   - Not | And | Or | Xor （只用Nand）
-
-    <picture>
-      <source media=(prefers-color-scheme: light)>
-      <img alt=Not And Or Xor的数字逻辑电路图 src=/SVG/Not-And-Or-Xor.svg>
-    </picture>
-       
+    
+    <img alt="Not And Or Xor的数字逻辑电路图" src=/SVG/Not-And-Or-Xor.svg>
+    
   - Mux | DMux  （只用Nand）
     
-    <picture>
-      <source media=(prefers-color-scheme: light)>
-      <img alt=Mux Dmux的数字逻辑电路图 src=/SVG/Mux-DMux.svg>
-    </picture>
+    <img alt="Mux Dmux的数字逻辑电路图" src=/SVG/Mux-DMux.svg>
     
   - Mux4Way16 （两种组法）
 
-    <picture>
-      <source media=(prefers-color-scheme: light)>
-      <img alt=Mux4Way16的数字逻辑电路图 src=/SVG/Mux4Way16.svg>
-    </picture>
+    <img alt="4路16位Mux的数字逻辑电路图" src=/SVG/Mux4Way16.svg>
 
 ### 真值表
   - Not
