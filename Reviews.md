@@ -17,7 +17,7 @@
    - ROM（read-only memory，只读），用来加载程序指令
    - RAM（random-access memory，可乱序存取），用来存取程序执行中所产生的数据
 
-   本课程里的ROM和RAM是同一种硬件，即硬件结构、原理一样。
+   本课程里的ROM和RAM是同一种硬件，即硬件结构、原理一样。由一大串Registe，寄存器组成。
 
    <details>
    <summary>数据存储设备还有其他类型</summary>
