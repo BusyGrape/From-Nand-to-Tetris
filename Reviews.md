@@ -83,7 +83,7 @@
    <这里画16位register选址结构图>
    
 ## 芯片（CPU）的结构
-### CPU的构成，ALU/Register/PC
+### CPU=ALU+2*Register+PC
 本课程的芯片是一个CPU（central processing unit），中央处理器。
 由1个ALU，2个Register和1个Program Counter构成。
 
