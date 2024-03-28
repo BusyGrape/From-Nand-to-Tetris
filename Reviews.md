@@ -106,8 +106,8 @@
    ALU的结构和所实现的计算：
    - 输入2个16位数据，6个1位的控制信号
 
-     x(16), y(16);<br>
-     zero x, not x, zero y, not y, x+y/x&y, not out; <br>
+     2个16位数据：x(16), y(16);<br>
+     6个控制信号：zero x, not x, zero y, not y, + or &, not out; <br>
      这6个控制信号对应的计算步骤是顺序发生的，<br>
      也就是说，先处理x，再处理y，然后对x和y进行计算，再对结果进行一次处理。
      
