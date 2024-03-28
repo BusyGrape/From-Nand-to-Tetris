@@ -2,8 +2,8 @@
 希伯来大学在Coursera开设的计算机原理课
 
 课程地址：
--  第一部分[硬件原理 PartI](https://www.coursera.org/learn/build-a-computer/home/week/1)
--  第二部分[软件逻辑 PartII](https://www.coursera.org/learn/nand2tetris2/home/welcome)
+-  第一部分[硬件原理 PartI](https://www.coursera.org/learn/build-a-computer/home/week/1 "跳转Coursera课程页面")
+-  第二部分[软件逻辑 PartII](https://www.coursera.org/learn/nand2tetris2/home/welcome "跳转Coursera课程页面")
 
 # 学习笔记
 
@@ -22,10 +22,10 @@
 ### 计算机的硬件构造
 - 核心组件，数据存储和芯片
 - 外设，输入和输出
-### 内存（RAM）的结构
+### 内存的结构
 - RAM的基础元素，寄存器
 - RAM的结构，实现任意位置等效读取
-### 芯片（CPU）的结构
+### 芯片的结构
 - CPU=ALU+2*Register+PC
   - ALU
   - Register
