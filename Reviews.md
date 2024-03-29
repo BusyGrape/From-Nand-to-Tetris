@@ -122,7 +122,7 @@
      直接得到：0, 1, -1, x, y, !x, !y, -x, -y, <br>
      计算：x+1, x-1, y+1, y-1, x+y, x-y, y-x, x&y, x|y
 
- <img alt=“ALU数字逻辑电路图” src=/SVG/ALU.svg>
+   <img alt=“ALU数字逻辑电路图” src=/SVG/ALU.svg>
           
  - Register，寄存器
    
