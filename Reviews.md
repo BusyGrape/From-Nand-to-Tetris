@@ -76,7 +76,7 @@
    
    一个寄存器由n个bit组成，一个bit由一个Mux加一个DFF（data flip-flop）组成，存储1位数据：0或1。
 
-   <img alt=“bit数字逻辑图>” src=/SVG/bit.svg>
+   <img alt=“bit数字逻辑图” src=/SVG/bit.svg>
 
    这样的一个结构实现了让寄存器在没有接到任何指令时，可以在每个时钟周期结束时，重新刷新一下自己的数据。
    以防止过久没有加载指令，当前存储的数据流失。
